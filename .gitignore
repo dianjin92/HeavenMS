@@ -144,3 +144,7 @@
 
 
 downloads/*.zip
+downloads/personal_files.rar
+/bin/
+.classpath
+.project
